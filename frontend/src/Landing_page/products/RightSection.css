@@ -1,0 +1,29 @@
+.textsect{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.mainImg img {
+    height: auto;
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 5px;
+}
+
+.textsect a img {
+    height: 50px;
+    width: auto;
+    object-fit: contain;
+    margin: 0 5px;
+}
+
+.linkHolder>a>img{
+    object-fit: cover;
+    width: 90%;
+    height: 100%;
+}
+.linkHolder>a{
+    width: 40%;
+    height: 100%;
+}

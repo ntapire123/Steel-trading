@@ -1,0 +1,60 @@
+.btnParent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.btn {
+  width: 45%;
+  color: white;
+}
+.linkBtn {
+  color: #467acf;
+  width: 45%;
+  border: none;
+  background-color: transparent;
+}
+
+.pHead {
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 500;
+  
+}
+
+.pText {
+  font-size: 16px;
+  line-height: 28.8px;
+  width: 60%;
+  word-spacing: 0px;
+}
+
+.leftSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+  align-content: flex-start;
+}
+
+
+
+.ecosys {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  margin: auto;
+  margin-bottom: 10px;
+  display: block;
+  object-fit: cover;
+}
+
+.pressHolder{
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10px;
+    padding-top: 5px;
+}
+

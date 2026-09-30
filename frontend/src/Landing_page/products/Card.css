@@ -1,0 +1,21 @@
+img{
+    height: 55px;
+    width: 210px;
+    object-fit: contain;
+    margin-bottom: 5px;
+
+}
+
+p{
+    text-decoration: gray;
+    font-size: small;
+    margin-top: 3px;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    
+
+}

@@ -1,0 +1,13 @@
+.headSect{
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-between;
+
+}
+
+.headSect>p{
+    font-size: large;
+}
+input{
+    width: 80%;
+}

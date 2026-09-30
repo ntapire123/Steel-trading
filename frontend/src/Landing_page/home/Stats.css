@@ -1,0 +1,68 @@
+
+.pHead {
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 500;
+  
+}
+
+.pText {
+  font-size: 16px;
+  line-height: 28.8px;
+  width: 100%;
+  word-spacing: 0px;
+}
+
+
+.btn {
+    width: 45%;
+    color: white;
+}
+.linkBtn {
+  color: #467acf;
+  width: 45%;
+  border: none;
+  background-color: transparent;
+}
+
+.cardHolder{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+
+    
+    
+
+ 
+}
+.card{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    height: 100%;
+    width: auto;
+    border:none;
+    align-items: center;
+    
+}
+
+.smallText{
+    font-size: 10px;
+    margin-bottom: 0px;
+    
+    
+    
+    
+}
+.priceImg {
+  height: 50%;
+  width: 50%;
+  object-fit: contain;
+  margin: auto;
+  align-self: center;
+  display: block;
+  
+
+  
+}

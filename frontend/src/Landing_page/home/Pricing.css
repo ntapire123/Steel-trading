@@ -1,0 +1,57 @@
+.btnParent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.btn {
+  width: 45%;
+  color: white;
+}
+.linkBtn {
+  color: #467acf;
+  width: 126px;
+  border: none;
+  background-color: transparent;
+ margin:6px 0px 6px 0px ;
+ padding: 0;
+text-align: left;
+}
+
+.pHead {
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 500;
+  
+}
+
+.pText {
+  font-size: 16px;
+  line-height: 28.8px;
+  width: 100%;
+  word-spacing: 0px;
+  margin-bottom: 12px;
+  margin-top: 12px;
+}
+
+.leftSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+  align-content: flex-start;
+}
+
+
+
+.varImg {
+  height: 40%;
+  width: 70%;
+  object-fit: contain;
+  margin: auto;
+  margin-bottom: 10px;
+  display: block;
+  object-fit: cover;
+}
+
+
